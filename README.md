@@ -100,6 +100,23 @@ These are not mandatory but help users understand core mechanics.
 <img width="1290" height="1936" alt="Achievement_Page" src="https://github.com/user-attachments/assets/dc956103-2184-4803-8f0b-8168fe33ca5d" />
 <img width="1290" height="1936" alt="Social_Page" src="https://github.com/user-attachments/assets/2ad57444-9d65-44db-ac74-ef0a85a8f26f" />
 
+
+
+https://github.com/user-attachments/assets/5180d751-4145-4ff7-bf9b-3defbe7ebfdf
+
+
+https://github.com/user-attachments/assets/975269bd-79d9-42c9-983c-4a06bce8a99a
+
+
+https://github.com/user-attachments/assets/33ec0270-2dc2-4994-8c07-cd4d0ed2ed02
+
+
+https://github.com/user-attachments/assets/75c3169b-f00a-4de8-9891-bbd8ab1ad4f1
+
+
+https://github.com/user-attachments/assets/2604121d-018d-458e-be21-cff3b3ba82ed
+
+
 ## 🚀 Why This Project Matters
 
 Most portfolios are passive.
