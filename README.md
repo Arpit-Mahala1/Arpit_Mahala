@@ -119,7 +119,7 @@ It demonstrates not just what I’ve built, but how I think about:
 Game Developer  
 
 - 🔗 GitHub: https://github.com/Arpit-Mahala1  
-- 🔗 LinkedIn: *(add your link here)*  
+- 🔗 LinkedIn: https://www.linkedin.com/in/arpit-mahala/  
 
 ---
 
