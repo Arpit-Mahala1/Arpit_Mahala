@@ -94,22 +94,36 @@ These are not mandatory but help users understand core mechanics.
 
 ## 📸 Screenshots
 
-<img width="1290" height="1936" alt="Home_Page" src="https://github.com/user-attachments/assets/88e26f62-aaf5-43aa-a79c-020186690e7a" />
-<img width="1294" height="1940" alt="Setting_Page" src="https://github.com/user-attachments/assets/b80ce70e-c3f1-4c31-a24a-01064be3c932" />
-<img width="1282" height="1924" alt="Controls_Page" src="https://github.com/user-attachments/assets/4085f3bc-4e8d-48c8-80a9-791bfeed5f63" />
-<img width="1290" height="1936" alt="Achievement_Page" src="https://github.com/user-attachments/assets/dc956103-2184-4803-8f0b-8168fe33ca5d" />
-<img width="1290" height="1936" alt="Social_Page" src="https://github.com/user-attachments/assets/2ad57444-9d65-44db-ac74-ef0a85a8f26f" />
+### 🏠 Interface & UI
 
-<img width="800" height="419" alt="Tanker_Destroying" src="https://github.com/user-attachments/assets/c47e2d66-b87b-43ed-9f76-86185c0cdbe3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88e26f62-aaf5-43aa-a79c-020186690e7a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b80ce70e-c3f1-4c31-a24a-01064be3c932" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4085f3bc-4e8d-48c8-80a9-791bfeed5f63" width="30%" />
+</p>
 
-<img width="800" height="419" alt="Reset_Use" src="https://github.com/user-attachments/assets/05c03ca5-86fe-4dd5-b68c-8d22a4d1d7ca" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc956103-2184-4803-8f0b-8168fe33ca5d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2ad57444-9d65-44db-ac74-ef0a85a8f26f" width="30%" />
+</p>
 
-<img width="400" height="210" alt="Box_Destroying" src="https://github.com/user-attachments/assets/60ab79e6-a7d1-45ea-9f16-d3b4ea0d9804" />
+---
 
-<img width="400" height="210" alt="Box_Destroying_2" src="https://github.com/user-attachments/assets/31a25211-3a04-4ec0-bbd8-f522435f12a7" />
+### 💥 Gameplay & Destruction
 
-<img width="400" height="210" alt="Projects_Showing" src="https://github.com/user-attachments/assets/61f46002-831b-4a22-a408-0de9e55aa36b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c47e2d66-b87b-43ed-9f76-86185c0cdbe3" width="60%" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05c03ca5-86fe-4dd5-b68c-8d22a4d1d7ca" width="45%" />
+  <img src="https://github.com/user-attachments/assets/60ab79e6-a7d1-45ea-9d16-d3b4ea0d9804" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31a25211-3a04-4ec0-bbd8-f522435f12a7" width="45%" />
+  <img src="https://github.com/user-attachments/assets/61f46002-831b-4a22-a408-0de9e55aa36b" width="45%" />
+</p>
 ## 🚀 Why This Project Matters
 
 Most portfolios are passive.
